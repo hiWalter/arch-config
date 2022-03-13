@@ -1,0 +1,6 @@
+2022/01/26-12:35:39.490 2641 Creating DB /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb since it was missing.
+2022/01/26-12:35:39.508 2641 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/26-12:36:19.748 266a Level-0 table #5: started
+2022/01/26-12:36:19.753 266a Level-0 table #5: 3681 bytes OK
+2022/01/26-12:36:19.758 266a Delete type=0 #3
+2022/01/26-12:36:19.759 266a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,27 @@
+2022/02/05-16:45:06.852 5 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/05-16:45:06.853 5 Recovering log #243
+2022/02/05-16:45:06.853 5 Reusing old log /home/hikari/.config/google-chrome/Default/Local Storage/leveldb/000243.log 
+2022/02/05-16:45:20.079 5 Level-0 table #246: started
+2022/02/05-16:45:20.083 5 Level-0 table #246: 19896 bytes OK
+2022/02/05-16:45:20.088 5 Delete type=0 #243
+2022/02/06-13:59:23.231 1f Level-0 table #248: started
+2022/02/06-13:59:23.247 1f Level-0 table #248: 19369 bytes OK
+2022/02/06-13:59:23.256 1f Delete type=0 #245
+2022/02/06-13:59:23.257 1f Compacting 4@0 + 1@1 files
+2022/02/06-13:59:23.286 1f Generated table #249@0: 462 keys, 1418731 bytes
+2022/02/06-13:59:23.286 1f Compacted 4@0 + 1@1 files => 1418731 bytes
+2022/02/06-13:59:23.291 1f compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/02/06-13:59:23.294 1f Delete type=2 #242
+2022/02/06-13:59:23.294 1f Delete type=2 #238
+2022/02/06-13:59:23.294 1f Delete type=2 #240
+2022/02/06-13:59:23.294 1f Delete type=2 #246
+2022/02/06-13:59:23.295 1f Delete type=2 #248
+2022/02/06-17:01:46.288 3c Level-0 table #251: started
+2022/02/06-17:01:46.304 3c Level-0 table #251: 15201 bytes OK
+2022/02/06-17:01:46.312 3c Delete type=0 #247
+2022/02/06-18:36:30.289 32 Level-0 table #253: started
+2022/02/06-18:36:30.303 32 Level-0 table #253: 10797 bytes OK
+2022/02/06-18:36:30.308 32 Delete type=0 #250
+2022/02/07-15:35:17.316 90 Level-0 table #255: started
+2022/02/07-15:35:17.332 90 Level-0 table #255: 11576 bytes OK
+2022/02/07-15:35:17.341 90 Delete type=0 #252

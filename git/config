@@ -1,0 +1,5 @@
+[core]
+	editor = nvim
+[user]
+	name = "hiWalter"
+	email = "ytwei3-c@my.cityu.edu.hk"

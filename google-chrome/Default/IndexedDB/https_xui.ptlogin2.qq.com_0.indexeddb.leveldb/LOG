@@ -1,0 +1,6 @@
+2022/01/25-16:08:35.184 11ce Creating DB /home/hikari/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb since it was missing.
+2022/01/25-16:08:35.196 11ce Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/25-16:08:39.934 11ce Level-0 table #5: started
+2022/01/25-16:08:39.940 11ce Level-0 table #5: 20267 bytes OK
+2022/01/25-16:08:39.945 11ce Delete type=0 #3
+2022/01/25-16:08:39.945 11ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

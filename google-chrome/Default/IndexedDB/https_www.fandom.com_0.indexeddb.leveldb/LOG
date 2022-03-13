@@ -1,0 +1,6 @@
+2022/02/02-15:23:21.060 916 Creating DB /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/02/02-15:23:21.071 916 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/02-15:33:07.546 916 Level-0 table #5: started
+2022/02/02-15:33:07.552 916 Level-0 table #5: 2421 bytes OK
+2022/02/02-15:33:07.557 916 Delete type=0 #3
+2022/02/02-15:33:07.558 916 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

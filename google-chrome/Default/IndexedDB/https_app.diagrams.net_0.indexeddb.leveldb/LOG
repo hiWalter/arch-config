@@ -1,0 +1,6 @@
+2022/02/05-17:53:43.530 4107f Creating DB /home/hikari/.config/google-chrome/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb since it was missing.
+2022/02/05-17:53:43.549 4107f Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/05-17:54:20.400 41130 Level-0 table #5: started
+2022/02/05-17:54:20.404 41130 Level-0 table #5: 2203 bytes OK
+2022/02/05-17:54:20.409 41130 Delete type=0 #3
+2022/02/05-17:54:20.409 41130 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2022/01/31-15:15:12.538 4c93 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/31-15:15:12.538 4c93 Recovering log #3
+2022/01/31-15:15:12.539 4c93 Reusing old log /home/hikari/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000003.log 
+2022/01/31-15:15:21.437 3dc7 Level-0 table #5: started
+2022/01/31-15:15:21.443 3dc7 Level-0 table #5: 18259 bytes OK
+2022/01/31-15:15:21.448 3dc7 Delete type=0 #3
+2022/01/31-15:15:21.448 3dc7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

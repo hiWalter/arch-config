@@ -1,0 +1,21 @@
+2022/02/05-16:45:08.585 5 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/02/05-16:45:08.585 5 Recovering log #39
+2022/02/05-16:45:08.594 5 Reusing old log /home/hikari/.config/google-chrome/Default/Session Storage/000039.log 
+2022/02/06-15:36:57.797 1f Level-0 table #43: started
+2022/02/06-15:36:57.813 1f Level-0 table #43: 23331 bytes OK
+2022/02/06-15:36:57.823 1f Delete type=0 #39
+2022/02/06-15:36:57.824 1f Compacting 4@0 + 1@1 files
+2022/02/06-15:36:57.836 1f Generated table #44@0: 1342 keys, 37069 bytes
+2022/02/06-15:36:57.837 1f Compacted 4@0 + 1@1 files => 37069 bytes
+2022/02/06-15:36:57.842 1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/06-15:36:57.843 1f Delete type=2 #43
+2022/02/06-15:36:57.843 1f Delete type=2 #34
+2022/02/06-15:36:57.843 1f Delete type=2 #40
+2022/02/06-15:36:57.843 1f Delete type=2 #37
+2022/02/06-15:36:57.843 1f Delete type=2 #31
+2022/02/06-16:40:45.656 32 Level-0 table #46: started
+2022/02/06-16:40:45.672 32 Level-0 table #46: 48302 bytes OK
+2022/02/06-16:40:45.681 32 Delete type=0 #42
+2022/02/06-18:10:04.406 3c Level-0 table #48: started
+2022/02/06-18:10:04.419 3c Level-0 table #48: 52570 bytes OK
+2022/02/06-18:10:04.423 3c Delete type=0 #45

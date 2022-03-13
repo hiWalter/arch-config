@@ -1,0 +1,132 @@
+{
+   "checksum": "9d7110bdc58236645f9c313142dacca0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265447802996005",
+            "guid": "14205a23-c25f-44fe-a6ee-cb0418ea8913",
+            "id": "10",
+            "name": "Cloverkit's Blog",
+            "type": "url",
+            "url": "https://cloverkits.github.io/"
+         }, {
+            "date_added": "13285496270320631",
+            "guid": "3679266a-59cc-4616-9281-104120f67da7",
+            "id": "11",
+            "name": "约伊兹的萌狼乡手札",
+            "type": "url",
+            "url": "https://blog.yoitsu.moe/"
+         }, {
+            "date_added": "13285537635482220",
+            "guid": "783c7834-fc17-4993-9699-9e7690f8139c",
+            "id": "12",
+            "name": "FestivalJog 助一城",
+            "type": "url",
+            "url": "https://festivaljog.com/"
+         }, {
+            "date_added": "13285540852586734",
+            "guid": "3d7c22ff-baba-43c0-9fcc-8f5c06b46575",
+            "id": "13",
+            "name": "",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/"
+         }, {
+            "date_added": "13286969167020065",
+            "guid": "99b0f71a-4401-4b0a-adb4-2efe781c0171",
+            "id": "15",
+            "name": "CityU ACM Programming Contest Homepage",
+            "type": "url",
+            "url": "https://www.cs.cityu.edu.hk/~acm/"
+         }, {
+            "date_added": "13287127138680604",
+            "guid": "f8819393-de33-458f-a7c2-7088d745e05b",
+            "id": "17",
+            "name": "CS 3391 (1 unread)",
+            "type": "url",
+            "url": "https://piazza.com/class/kyijktdvxa95z3"
+         }, {
+            "date_added": "13287423366175200",
+            "guid": "66402dd8-0805-4e23-85fa-3365da3953fa",
+            "id": "19",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13287945907192279",
+            "guid": "a7705994-184f-49e1-b007-0d7d1cb5ed1c",
+            "id": "21",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13288203070657898",
+            "guid": "65a86361-7d85-4590-b382-0bcc574492e2",
+            "id": "22",
+            "name": "蜜柑计划 - Mikan Project",
+            "type": "url",
+            "url": "https://mikanani.me/"
+         } ],
+         "date_added": "13286275635658191",
+         "date_modified": "13288203070657898",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286275635658193",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13278167047853858",
+            "guid": "83aa1ee5-7f2b-45e4-b6e0-6f7072b6229d",
+            "id": "5",
+            "name": "docs.google.com",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1lXchYXNm-dJ5XccXDg0Y0Rh5OWdTeCO4MQbT1p4-48g/mobilepresent?slide=id.gf6e5adbdb2_1_0"
+         }, {
+            "date_added": "13263411727041921",
+            "guid": "255c64f5-4584-49e5-826d-580aa5fe7814",
+            "id": "6",
+            "name": "庭说 - 保持蓬勃的好奇心",
+            "type": "url",
+            "url": "https://tingtalk.me/"
+         }, {
+            "date_added": "13279342057392312",
+            "guid": "6265cdd8-608a-434e-82d9-f933a63b58ef",
+            "id": "7",
+            "name": "Grandyang's Blogs",
+            "type": "url",
+            "url": "https://grandyang.com/"
+         }, {
+            "date_added": "13284395692958753",
+            "guid": "c4c178b0-c7a4-4525-ae69-84cd3ad04d96",
+            "id": "8",
+            "name": "Vim Awesome",
+            "type": "url",
+            "url": "https://vimawesome.com/"
+         }, {
+            "date_added": "13284859195478261",
+            "guid": "d08fc54a-0fc4-45ec-9f90-66f1776a9f2c",
+            "id": "9",
+            "name": "256 Colors - Cheat Sheet - Xterm, HEX, RGB, HSL",
+            "type": "url",
+            "url": "https://www.ditig.com/256-colors-cheat-sheet"
+         } ],
+         "date_added": "13286275635658195",
+         "date_modified": "13284859195478261",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAsLkKatcFACGAsLkKatcFADIYChYIAhHyxH4batcFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgLC5CmrXBQAhgLC5CmrXBQAyGAoWCAIR8sR+G2rXBQAYACEAAAAAAAAAACAASJ6L75vtL3Cei++b7S8SACABKhhaOXlnVXFLOFNFU0U2NUFVOTRCenh3PT0S9AEIFRLvAQocdmVNMXVkQ0t0bFhacnhGTGF3WnhXWWJCd1RrPRJmWjpBRHF0QVp5L20ydmJYOVF5bHZhTGdoSWdLZ2N0dE1SYS90RFp6VWZncE5aSFVTNGpsRnZoNlNKbVV2bHVrZmgzak9zWTJlUGI3S2grTUJTbEZSbThTeWo5NzNOM3VkV0Zqdz09GAAgOCg4MKbooJWx7/UCOPiH1bTqL0CNss6+7S9KHEhYUkM4Yy9YWkVhdWtDZlVrazlmb29tc0pmUT1aJyIl/////wAAAAzTeUNQNG5aWHcxb0pmZVV5c2duV1pEaS9HUEN3PWX91iByEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaemVWNWFWVGM5MGNycUlhWWR2U3FGN0RickQwWGRXcUNnd082eERsVjVFdWlNMUF0M2lScGV1ejA0L3ltNGpUZ2QrcGs0c0ZHbU1Ub1NxZ0hnOXFOV2h4d2RIVEE9PRgAIAAoADCAyqv/3ab1AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEvQBCA0S7wEKHEtaQURuQVVoOEt0QVFFQzRjdHY5a00vWGNiQT0SZlo6QURxdEFaeS9tMnZiWDlReWx2YUxnaElnS2djdDBYb0JwQUhrSmxiMVkwVGNabW84THZrekJrR05uNExtMHc2UVZCanlYRnI1NmF4QXMwdENHLytJWFI0YVJ6VWphR2dqQWc9PRgAIAYoBjCV47nB/Oz1Ajjuluy54S9A1q+Nl+0vShxPcnNSVDg2clV1bXkzQ21sR1N5ZzBTb2NnN2s9WiciJf////8AAAAL/VZHZG1TWmFGaVV1NFd5RWt5Q2pRa2JSQk5EWT1l+4WAkRKsAggGEqcCChxJN2xWOE5hZ3hBNFVQdzZ4R3Rma0lGR2FLdXM9EqYBWjpBRHF0QVp6am9WMVNuc0NReW1peTJoU09obElTZzloTVpHK1JQYVhHVUJDRW1icjNleDBHeVA2VjlVc2pWOENwNjUzWURBc3U1UmxUU0YwOC8xQlhzNFViS0dVbUZYaElVOHl3K1ZYbzhQOTdveVp1Z2FvL3lTUHJ6eUtWaE9nU3J5aXZmazRIV0djTFFUTjltQmdpU2RSRGxiV1lsSFlwN0E9PRgAIAAoADC5iK3Nrvr0AjjGxe2Bjy9AxsXtgY8vShxHR3lPbUVxQWJheS9wZ2txZERhcGhVMjRMZ2c9Wh4iHFpyNjJzQzgwd25yOVhSakVLcmZiR3doem1PVT1lk+uRlBL0AQgWEu8BChx0bjhMb3RSLzc1eUZ1N0xTSkIxNE0yUFBlbnc9EmZaOkFEcXRBWnkvbTJ2Ylg5UXlsdmFMZ2hJZ0tnY3Q3WjFlUDVOaFVjMTVjams4T3RSdVEvSHZCWU9id3pLUWQxVXlqOTZWNzZMNUtoNGYzZnp2cTdhOFRmRlBiY0k0YkY1UXVBPT0YACACKAIwsO3fm+/e9QI4w4mlr+svQIvHg7DrL0ocSnp1ZmRLV3ZXek13S3hjdEtLeDFCRUx3N3ZjPVonIiX/////AAAADOlnYmhUd3FnQ243VVp5alRoekJxbDVBdHUyNk09ZRWF0iQS8wEIERLuAQocWkwyTExjNkszSVR4UDdwb2FnVWM4Nk1VMVJrPRJmWjpBRHF0QVp5L20ydmJYOVF5bHZhTGdoSWdLZ2N0bkNGd2V3d0U3QTJ1VSttTCszd2tIWG1XMi9WMkwyYnZhZ2xNZ3RIV283QUkrREpFZHRZKzJ2eTNVY0ZNQWVpb1NLMjNLQT09GAAgAigCMIjaoabBv/UCOPmyn67nL0D6sp+u5y9KHEVRRkxUZmtkbVFiYmJHSnN3emN6WjZ5NldoMD1aJiIk/////wAAAAxPVG1OSFJleC93RWxlSVIzYTlKLzR6cnVqMU09ZWAR10oS9AEICxLvAQocelNFVkFJeGpyZm9nWHdFWXZ6MUtHYkNNcXdrPRJmWjpBRHF0QVp5L20ydmJYOVF5bHZhTGdoSWdLZ2N0Q1ZSUnUwcmRUY0pBdXlwTlFKZGo1aSswWXJONElFNnhpUU9KdDJQRnVqZGJUaVZBenBvSnZ0U0h5SHBYazcvQ0hnaWxQdz09GAAgAygDMJDIuZDE2/UCOPKLy6ThL0Dpga756i9KHHptb21ZUGFnOUxWRTBlZlBwZ2hHeWt4dDRlRT1aJyIl/////wAAAAv0VjFZM2tFbjE0RGsxc3ZSUmpNWUJpN2oxN284PWWRaBHXEvQBCA8S7wEKHEE4S3pJTDZ3VU95RHRWTHViWEdpa0MzWFlJaz0SZlo6QURxdEFaeS9tMnZiWDlReWx2YUxnaElnS2djdE56dS9Ld3lENzQ3ekdsUWtxOGhvNjZQSlpEZ2NDTEZDVnk4TlhXSVVNTkNzeVNPK0V1blg4Y3F1Z3c2ckVPeTBuV05Xd0E9PRgAIAQoBDDt1e2HpOP1AjityfXi5i9Ane+p+OsvShxvT1JrSGtpa1MyUll0dEJTS3paMDRwOUFsNW89WiciJf////8AAAAL/kd4TDYwZTIydjAxRUlTbjVZY0pMSUVwTEFYaz1laJywZBLsAQgIEucBChxKdHBmdTdGL1RCS0lDenJ1bWdRbHRpWk5sZ0k9EmZaOkFEcXRBWnkvbTJ2Ylg5UXlsdmFMZ2hJZ0tnY3R6a3pOMFBza2cwUmhOeTJZRGRnQjFzV2RoT3J6ZmVDWDFvNGg2MFlmemdpcDVRWCtkbDlxbm83UXlBNE4vMGFhZmFYbzFRPT0YACAAKAAw49/szK769AI4n5fll90vQJ+X5ZfdL0ocRVV3LzdyL2ZvVmQremhUM1p5QWR0ckxJT1FFPVofIh2xU1ZlVE1zbnJWTytrZlVQYUJkOXhHS2FUemtzPWUZOSOgEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeGNvT2Z5SmU0eXZlU1d1RmpmSGJLNjNueTNyTktURkdYTENwVk15cW93S051aGJqNnVvdlp0eUZ4amdTbTRNUUNGUStmchgAIAAoADCAyqv/3ab1AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEvQBCAwS7wEKHGJEd29jY1NMOGJmOWtSV3ZQSTUwNmlMdS9VVT0SZlo6QURxdEFaeS9tMnZiWDlReWx2YUxnaElnS2djdDR0cUNlQmpvOEt5K0w4UitPZU0vRVRGU0cyQy9qUnY4ak5IV1FTL0h0WTBkVk11NlhaeFBSbzV1Zy9wTEhDcEM1cm5BcXc9PRgAIAIoAjDHmJaA3qb1Ajid6ae44S9AiPuomOQvShxIYXBaQ0c5QVI4a0ZPTkVYZWk4K3dwdU80Vjg9WiciJf////8AAAAL+ldpd0tnTThLRSs3QXphM3FKTTBrUWtVZVIrST1lZ0JuIxLsAQgFEucBChxGOW1aRTFpbW05VlUvb2Y4eTRROTRicXEvd1E9EmZaOkFEcXRBWnkvbTJ2Ylg5UXlsdmFMZ2hJZ0tnY3RmZk9mZG9DT3VhZEdyeHgvWCtEd1dpL3lrVTJEb09INWROdFlZdVRIM1VZZXhHNWdVWFM2MHcyaC9USjFpdy9ET1gyK3V3PT0YACAAKAAwuYitza769AI4r+3e/cUvQK/t3v3FL0ocQzl4WHFMYnEwR0tVOEZ0eE1lajRCd05sb01FPVofIh0tcXhlQjhjZFE1YVAxK2Fva2dUbUtMUGZzSTcwPWUylUuwEvQBCBMS7wEKHFdHbCt0RWJQZStCdVIxUlVnUDUvUjJPaXdiWT0SZlo6QURxdEFaeS9tMnZiWDlReWx2YUxnaElnS2djdHVGS3ZFY0htdUpSUDNXZkNCUG5qTFRheW5NdWd1MjVPNWZSRng3dW96VHVtL2JJcG9Vdi92WllXSVQ2dXJLZWtIeEk1ZFE9PRgAIAIoAjDVs97qkMj1Ajif2L+76C9AoNi/u+gvShxtK1YvOHpyNk42alAyK3ZoNlpZb3dpVklsaHM9WiciJf////8AAAAMp0EzbHMrdWZBMzl4UXdLMExramgrK1BXc2tEUT1lKNDhqRLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnh2VkYwRmVFRjJxZXZKZ2RwUnNJM2ttT1JqVmtNZHNkNk9PM1pBRDBjSFordmpxR2dxZUhwbVBzMzBFSExsaXNHOGtMSVQxL1JlN0V2WlBYdThGY1R0NFlaQnlnPT0YACAAKAAwgMqr/92m9QI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLrAQgHEuYBChx4ZGlVc05FVDEyQUk1bWc1ZDk1V2VhTzdzYVk9EmZaOkFEcXRBWnkvbTJ2Ylg5UXlsdmFMZ2hJZ0tnY3QrMTNkczU4NnB2bzhuUkxTdjlNU3A0S1gwOVl6aEMrMWkwZ2J5QkNaMEpQWVZXVzhWa1pMZWpPaHNvd0J0REQ5eXordUhRPT0YACAAKAAwuYitza769AI4sd+DrsovQLHfg67KL0ocNDErMHQxd05VNWl3ZGNUUXBOZEtQUGVUMlpNPVoeIhxiVTdVUXN0Wjh3QU0yd0RldklpVUtwbDFOS0k9ZchsebsS7AEICRLnAQocN1VDWU02cUhid08zY0hXS3lLSUs1RDNYVEdjPRJmWjpBRHF0QVp5L20ydmJYOVF5bHZhTGdoSWdLZ2N0ZEUyaDZza3FUZHB2OWRNcklHeFgxMlBETkZpR0pWUlVEc0w2VldMSmd3SngvZXBZRHNEbkpXRVdYMXFKd0k2alBlQnQxUT09GAAgACgAMKq82sbA/fQCONeQ5/TeL0DXkOf03i9KHFIvclhqdEtNNGIyVU9uNkY1R2pIKzZEMGdjZz1aHyId2HkwYUJnQmRjc1RvWWRDY2Zwa294VlRpL0s1TT1ljAS+jxK1AggKErACChx3UW9IS0hFOWJJOHBpcjZhdThwSkszN3JQUjQ9EqYBWjpBRHF0QVp6am9WMVNuc0NReW1peTJoU09obElTK1p5Nm44anlWc055YVJRVmUweGhYYUtXUGxIRlZNY0VqKzdQbWVKelU2TzlnVjhtbkp1bm1ZaDd5eEpzbFdHU0kyWFB1WjdLSnQ2Y0RwczVqTndINkRUMzY4TzlJQ2dyemRaNVlnVzhrd2d6U21lRDl3QWMzeFlJQ3BLT01VSCtkZXVDdlE9PRgAIAIoAjDHmJaA3qb1Ajj04N3Mli9A5fqomOQvShwvdmZWRjNWektLMHk5S0sremFqVXFubGUvR2M9WiciJf////8AAAAL6TBaamFFaGhLNzFaZGg3QUdxUlNqenAyTTUyRT1le6Eb6CCJje+b7S8wAQ==",
+   "version": 1
+}

@@ -1,0 +1,42 @@
+2022/02/05-16:45:06.859 3d427 Reusing MANIFEST /home/hikari/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/02/05-16:45:06.860 3d427 Recovering log #103
+2022/02/05-16:45:06.860 3d427 Reusing old log /home/hikari/.config/google-chrome/Default/Sync Data/LevelDB/000103.log 
+2022/02/05-17:06:16.602 3e749 Level-0 table #107: started
+2022/02/05-17:06:16.619 3e749 Level-0 table #107: 93279 bytes OK
+2022/02/05-17:06:16.623 3e749 Delete type=0 #103
+2022/02/05-17:06:16.623 3e749 Compacting 4@0 + 1@1 files
+2022/02/05-17:06:16.629 3e749 Generated table #108@0: 250 keys, 32897 bytes
+2022/02/05-17:06:16.629 3e749 Compacted 4@0 + 1@1 files => 32897 bytes
+2022/02/05-17:06:16.633 3e749 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/05-17:06:16.634 3e749 Delete type=2 #97
+2022/02/05-17:06:16.634 3e749 Delete type=2 #104
+2022/02/05-17:06:16.634 3e749 Delete type=2 #107
+2022/02/05-17:06:16.634 3e749 Delete type=2 #102
+2022/02/05-17:06:16.634 3e749 Delete type=2 #99
+2022/02/06-13:49:46.637 45d3a Level-0 table #110: started
+2022/02/06-13:49:46.656 45d3a Level-0 table #110: 88948 bytes OK
+2022/02/06-13:49:46.661 45d3a Delete type=0 #106
+2022/02/06-16:49:08.731 4eff1 Level-0 table #112: started
+2022/02/06-16:49:08.744 4eff1 Level-0 table #112: 95532 bytes OK
+2022/02/06-16:49:08.748 4eff1 Delete type=0 #109
+2022/02/06-17:04:21.773 4ed78 Level-0 table #114: started
+2022/02/06-17:04:21.786 4ed78 Level-0 table #114: 109877 bytes OK
+2022/02/06-17:04:21.790 4ed78 Delete type=0 #111
+2022/02/07-13:20:11.066 545a2 Level-0 table #116: started
+2022/02/07-13:20:11.077 545a2 Level-0 table #116: 100702 bytes OK
+2022/02/07-13:20:11.083 545a2 Delete type=0 #113
+2022/02/07-13:20:11.084 545a2 Compacting 4@0 + 1@1 files
+2022/02/07-13:20:11.098 545a2 Generated table #117@0: 252 keys, 29007 bytes
+2022/02/07-13:20:11.098 545a2 Compacted 4@0 + 1@1 files => 29007 bytes
+2022/02/07-13:20:11.106 545a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/07-13:20:11.107 545a2 Delete type=2 #112
+2022/02/07-13:20:11.107 545a2 Delete type=2 #110
+2022/02/07-13:20:11.107 545a2 Delete type=2 #108
+2022/02/07-13:20:11.107 545a2 Delete type=2 #116
+2022/02/07-13:20:11.107 545a2 Delete type=2 #114
+2022/02/07-14:35:12.269 57bec Level-0 table #119: started
+2022/02/07-14:35:12.281 57bec Level-0 table #119: 108584 bytes OK
+2022/02/07-14:35:12.285 57bec Delete type=0 #115
+2022/02/08-13:34:35.752 631cf Level-0 table #121: started
+2022/02/08-13:34:35.758 631cf Level-0 table #121: 90528 bytes OK
+2022/02/08-13:34:35.763 631cf Delete type=0 #118

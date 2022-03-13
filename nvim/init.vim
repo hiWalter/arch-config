@@ -1,55 +1,36 @@
-"===		 :::::::::::::::::                    ｨ
-"===　　 　 　 　!:::::::::::::::      　            /!
-"===　　　　　　 i::::::::::::::    　   _'"ﾞﾞﾞﾞﾞ"''/ l
-"===		  |::::::::::::	      _'  ....     /  l
-"===　 　 　 　 　!:::::::::::: 　,,,ｒ ."    ゞ、　  ヾ
-"===　　　　　　　|:::::::::,,-''''""　';:ﾐ;    〉   .:ﾐ
-"===　 　 　 　 　 i::::;:'　　 　 　.::ﾐ     　　 .::ﾐ
-"===　　　　　　 　ﾚ':.　　　　, '""''-,,_　　てlﾌ=====i~i＝ニニ0
-"===　　　　　　　 ﾐ:::　　　  ﾐ  　　　  ）ニｰ'"tｭi三三iﾐ'"ゞ二≡≡ニニ二二()
-"===　　　　　　　ﾐ:::　 　 ''""ヽi i i j'＿ﾉﾉーi・￣二,ﾐ　　ミ──’
-"===　　　　　 　ﾐ::　　　、　　　'"'''"ﾐ￣     └─---'' '''''"
-"===　　　　　　彡:.　 　　ヽ:.　 　  '"⌒'"⌒	  ::::\　  ＼"'-,; .
-"===　　　 　　 ﾍ:::..　　　ﾉ::..　　  .: t-_ヽ    ::::\ 　  ＼:."'-,, .
-"===　 　　 　/ i,- t -<;;;;､;;;;､,,､,､;;､i___ゝ   :::::\　    ＼:.:.:"'-,,
-"===　    　 /　 ''ｰ-ﾞｰ':::::::::::::::::::::::　  ::::::\　     ＼:.:.:"'-,,
-"===　 　   /　　　　　.::::::::::::::::::::::　  　::::::\        ＼:.:.:.:.:
-"===　     /　　　　....::::::::::::::::::::　　　 　 :::::\         \:.:.:.:.:
-"
-"================
-"===TO-DO list===
-"================
-" configure color-scheme
-" coc
-" fzf
-" air-line
-" tab
-" init-shellScript
-" multi-cursor
-
-" Plugin  
+""" +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
+"""                            Vim-Plug
+""" +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
 call plug#begin('~/.vim/plugged')
-	" Language support
+    " ===
+	" === Language support protocal
+    " ===
 	Plug 'fatih/vim-go'	
 	Plug 'rust-lang/rust.vim'
 	
-	" Tools for coding
+    " ===
+	" === Tools for coding
+    " ===
 	Plug 'scrooloose/nerdtree'
-	Plug 'tpope/vim-fugitive'				" fugitive
+	" Plug 'tpope/vim-fugitive'			            	" fugitive
     Plug 'itchyny/lightline.vim'
+    Plug 'tpope/vim-surround'
+    Plug 'gcmt/wildfire.vim'
+    Plug 'jiangmiao/auto-pairs'
 
-	Plug 'w0rp/ale'						" ale 
+
+	Plug 'w0rp/ale'						                " ale 
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}		" coc.vim
-	Plug 'junegunn/fzf'					" fuzzy file finder	
-	Plug 'honza/vim-snippets'
+	" Plug 'junegunn/fzf'					            " fuzzy file finder	
+	" Plug 'honza/vim-snippets'
 	Plug 'terryma/vim-multiple-cursors'
 call plug#end()
 
-" BASIC CONFIGURATION ::
-"
+""" +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
+"""                        BASIC CONFIGURATION ::
+""" +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
 " numbers
 set number  		relativenumber
-
 
 "
 set wildmenu
@@ -87,25 +68,21 @@ set ruler
 " use softtabstop=4 if you want to replace tab with space
 set expandtab       smarttab
 set shiftwidth=4    tabstop=4
-set autoindent      smartindent     cindent
+
+set autoindent      smartindent
+set cindent         cinoptions=g-1
+
 
 """ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
-"""                            COC.set
+"""                     Plugin setting details
 """ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
-"" No backup setting 
-set nobackup        nowritebackup   
 
-"" Show less in Pmenu
-set updatetime=100
-
-set shortmess+=c
-""" +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++ +++++++++++
+"""
+""" COC.set
+"""
 
 
 " MY vim runtime path(Mac) : $VIMRUNTIME=/usr/share/vim/vim82
-
-" autocmd BufWritePre * :%s/\s\+$//e
-
 
 source ~/.config/nvim/plugin.vim
 source ~/.config/nvim/peaksea.vim
@@ -116,7 +93,6 @@ catch
 endtry
 
 " Key Binding in Vim
-
 let mapleader = ","
 
 noremap Q :q<CR>
@@ -137,33 +113,38 @@ imap jk <Esc>
 
 
 "===
-"===coc.nvim
+"=== coc.nvim
 "===
+" No backup setting 
+set nobackup        nowritebackup   
+" Show less in Pmenu
+set updatetime=100
+set shortmess+=c
+
 let g:coc_global_extensions = [
     \ 'coc-json',
     \ 'coc-vimlsp',
+    \ 'coc-ccls',
+    \ 'coc-html',
+    \ 'coc-css',
     \ ]
 
 inoremap <silent><expr> <c-W>o coc#refresh()
 
-
-
 "===
-"===leetcode-vim
-"===
-let g:leetcode_browser='chrome'
-
-"===
-"===NERDTree
+"=== NERDTree
 "===
 let g:NERDTreeWinPos = "right"
 let NERDTreeShowHidden=1
 let NERDTreeShowLineNumbers=1
-let NERDTreeIgnore = ['\.DS_Store$']
 map <leader>n :NERDTreeToggle<CR>
+" Start NERDTree and put the cursor back in the other window.
+autocmd VimEnter * NERDTree | wincmd p
+" Exit Vim if NERDTree is the only window remaining in the only tab.
+autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
 
 "===
-"===lightline
+"=== lightline
 "===
 let g:lightline = {
       \ 'colorscheme': 'wombat',

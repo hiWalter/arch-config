@@ -1,0 +1,15 @@
+2022/02/05-18:02:42.235 4183a Reusing MANIFEST /home/hikari/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/05-18:02:42.235 4183a Recovering log #7
+2022/02/05-18:02:42.236 4183a Reusing old log /home/hikari/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2022/02/06-16:47:32.428 4ed78 Level-0 table #12: started
+2022/02/06-16:47:32.432 4ed78 Level-0 table #12: 209 bytes OK
+2022/02/06-16:47:32.437 4ed78 Delete type=0 #7
+2022/02/06-16:47:32.437 4ed78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/02/06-16:47:32.437 4ed78 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 681 : 1
+2022/02/06-16:47:32.438 4ed78 Compacting 1@1 + 1@2 files
+2022/02/06-16:47:32.442 4ed78 Generated table #13@1: 206 keys, 3049 bytes
+2022/02/06-16:47:32.442 4ed78 Compacted 1@1 + 1@2 files => 3049 bytes
+2022/02/06-16:47:32.449 4ed78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/06-16:47:32.450 4ed78 Delete type=2 #12
+2022/02/06-16:47:32.450 4ed78 Delete type=2 #9
+2022/02/06-16:47:32.450 4ed78 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 681 : 1 .. (end); will stop at (end)

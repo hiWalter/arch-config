@@ -1,0 +1,22 @@
+2022/02/03-15:13:03.346 a15a Reusing MANIFEST /home/hikari/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/02/03-15:13:03.346 a15a Recovering log #104
+2022/02/03-15:13:03.355 a15a Reusing old log /home/hikari/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000104.log 
+2022/02/03-15:17:52.222 a134 Level-0 table #108: started
+2022/02/03-15:17:52.251 a134 Level-0 table #108: 2531217 bytes OK
+2022/02/03-15:17:52.256 a134 Delete type=0 #104
+2022/02/03-15:17:52.335 a134 Level-0 table #110: started
+2022/02/03-15:17:52.355 a134 Level-0 table #110: 2673915 bytes OK
+2022/02/03-15:17:52.360 a134 Delete type=0 #107
+2022/02/03-15:17:52.361 a134 Compacting 4@0 + 2@1 files
+2022/02/03-15:17:52.388 a134 Generated table #111@0: 17 keys, 2122512 bytes
+2022/02/03-15:17:52.417 a134 Generated table #112@0: 7 keys, 2560234 bytes
+2022/02/03-15:17:52.442 a134 Generated table #113@0: 9 keys, 2607992 bytes
+2022/02/03-15:17:52.447 a134 Generated table #114@0: 5 keys, 148358 bytes
+2022/02/03-15:17:52.447 a134 Compacted 4@0 + 2@1 files => 7439096 bytes
+2022/02/03-15:17:52.452 a134 compacted to: files[ 0 4 1 0 0 0 0 ]
+2022/02/03-15:17:52.452 a134 Delete type=2 #105
+2022/02/03-15:17:52.452 a134 Delete type=2 #110
+2022/02/03-15:17:52.452 a134 Delete type=2 #108
+2022/02/03-15:17:52.452 a134 Delete type=2 #103
+2022/02/03-15:17:52.452 a134 Delete type=2 #99
+2022/02/03-15:17:52.452 a134 Delete type=2 #100
